@@ -1,6 +1,6 @@
 # QA ENGINEER PORTFOLIO
 
-[![Header](https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png)](mailto:”xiushakovax@gmail.com">)
+[![Header](https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png)](mailto:xiushakovax@gmail.com)
 
 
 ## My CV
@@ -74,11 +74,21 @@ You can download my CV as a [PDF](https://drive.google.com/file/d/1HaeXlUL-Wttj7
 </details>
 
 
+<details>
+<summary><h3>Soft Skills</h3></summary>
+<br>
+<ul><li>Problem-solving aptitude</li>
+<li>Attention to Details</li>
+<li>Assertiveness and Empathy</li>
+<li>Curiosity</li>
+<li>Well-organized</li>
+<li>Attention to User Experience</li>
+<li>Strong communication Skills</li>
+<li>Ability to learn new tools, systems and processes quickly</li>
+<li>Thinking outside the box</li>
+<li>Desire for self-development</li></ul>
 
 
-
-
-### Soft Skills
 
 ## Projects
 

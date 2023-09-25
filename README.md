@@ -8,7 +8,28 @@ You can download my CV as a [PDF](https://drive.google.com/drive/folders/1ld9gAD
 
 ## About me
 
+
 ## My experience
+My previous job was closely related to IT. I have worked in EdTech on the development of IT courses and internship program for our students, where I was responsible for:
+- managing the educational process, structuring materials;
+- creating educational content and innovative internship projects;
+- processing customer experience;
+- operating business workflows;
+
+Internship Project Development:
+
+This project was conceived as a small startup for student practice. At the beginning of the project's development, I served as a project manager, creating and managing project documentation, collaborating with developers and designers, I was responsible for:
+- tracking and monitor project tasks;
+- preparing regular project status reports for senior management;
+- creating project documentation;
+- managing project specifications and test documentation;
+- conducting functional tests;
+
+In a small team of 3 people, we brought the project to its MVP stage, at which point we onboarded students for further work and practical experience. It was a source of genuine pleasure for me, which has also made me interested especcialy in the QA path. 
+
+
+My previous experience has provided me with a deep understanding and knowledge of the IT industry. I have gained valuable insights into the field of software testing and the dynamic nature of IT, and I really enjoy it!
+
 
 
 ### Tools
@@ -18,7 +39,8 @@ You can download my CV as a [PDF](https://drive.google.com/drive/folders/1ld9gAD
 ![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=65C179)
+
 
 <details>
 <summary><h3>Hard Skills</h3></summary>

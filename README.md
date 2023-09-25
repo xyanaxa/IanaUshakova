@@ -4,7 +4,7 @@
 
 
 ## My CV
-You can download my CV as a [PDF](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+You can download my CV as a [PDF](https://drive.google.com/drive/folders/1ld9gADD8mRkOT39X3H7CSR6nvnAiwc63?usp=share_link)
 
 ## About me
 

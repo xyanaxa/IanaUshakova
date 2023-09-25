@@ -2,7 +2,7 @@
 <img src="https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png">
 ## 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://drive.google.com/drive/folders/1ld9gADD8mRkOT39X3H7CSR6nvnAiwc63?usp=share_link)
 
 ## About me
 

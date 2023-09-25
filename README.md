@@ -1,5 +1,5 @@
 # QA ENGINEER PORTFOLIO
-<img src="https://github.com/xyanaxa/IanaUshakova/blob/main/Junior%20QA%20Engineer-2.pdf">
+<img src="https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png">
 ## 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)

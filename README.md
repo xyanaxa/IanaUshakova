@@ -1,5 +1,9 @@
 # QA ENGINEER PORTFOLIO
-<img src="https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png">
+
+<a href="mailto:”xiushakovax@gmail.com” target="_blank">
+  <img src="https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png"/>
+</a>
+
 
 ## My CV
 You can download my CV as a [PDF](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)

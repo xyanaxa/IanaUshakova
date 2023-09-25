@@ -1,8 +1,6 @@
 # QA ENGINEER PORTFOLIO
 
-<a href="mailto:”xiushakovax@gmail.com” target="_blank">
-  <img src="https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png"/>
-</a>
+[![Header](https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png)](mailto:”xiushakovax@gmail.com">)
 
 
 ## My CV

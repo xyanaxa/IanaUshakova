@@ -3,22 +3,22 @@
 [![Header](https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png)](mailto:xiushakovax@gmail.com)
 
 
-## My CV
+## 📃 My CV
 You can download my CV as a [PDF](https://drive.google.com/drive/folders/1ld9gADD8mRkOT39X3H7CSR6nvnAiwc63?usp=share_link)
 
-## About me
-My experience as a business assistant in an EdTech project focused on IT training has provided me with a deep understanding and knowledge of the IT industry. I have gained valuable insights into the field of software testing and the dynamic nature of IT, and I really enjoy it!
+## 🙋🏼‍♀️ About me
+My experience as a business assistant in an EdTech project focused on IT training has provided me with a deep understanding and knowledge of the IT industry. I have gained valuable insights into the field of software testing and the dynamic nature of IT, and I really enjoy it! I started
 
 <i>Data passionate, continuous learning and curious soul. Based in Poland but available to work worldwide.</i>
 
-## My experience
+## 💼 My experience
 My previous job was closely related to IT. I have worked in EdTech on the development of IT courses in frontend, backend and testing, where I was responsible for:
 - managing the educational process, structuring materials;
 - creating educational content and innovative internship projects;
 - processing customer experience;
 - operating business workflows;
 
-Also we have developed Internship Program for our students:
+📌 Also we have developed Internship Program for our students:
 
 This project was conceived as a small startup for student practice. At the beginning of the project's development, I served as a project manager, creating and managing project documentation, collaborating with developers and designers, I was responsible for:
 - tracking and monitor project tasks;
@@ -32,7 +32,7 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 
 
 
-### Tools
+### 🛠️ Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -43,7 +43,7 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 
 
 <details>
-<summary><h3>Hard Skills</h3></summary>
+<summary><h3>⚙️ Hard Skills</h3></summary>
 <br>
 <b>Manual testing</b>
 <ul><li>can perform manual functional and usability testing of web applications</li>
@@ -97,7 +97,7 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 
 
 <details>
-<summary><h3>Soft Skills</h3></summary>
+<summary><h3>💡 Soft Skills</h3></summary>
 <br>
 <ul><li>Problem-solving aptitude</li>
 <li>Attention to Details</li>

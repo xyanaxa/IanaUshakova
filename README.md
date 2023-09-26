@@ -123,4 +123,23 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ## Courses
+Udemy:
+- [Software Tester Course](https://www.udemy.com/course/software-tester-course-become-an-effective-tester/)
+- [Manual Testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
+- [Postman API](https://www.udemy.com/course/kurs-postman/)
+- [Web/Mobile, Postman, SQL, Git, Bash](https://www.udemy.com/course/qaengineer/)
+
+Sololearn:
+- [SQL Course for Beginners](https://api2.sololearn.com/v2/certificates/CC-NPY5ZSLH/image/jpg)
+- [SQL Course Intermediate](https://api2.sololearn.com/v2/certificates/CC-BXDVK0K2/image/jpg)
+
+Other sources of information:
+- "Testing dot com" R.Savin, 2017 - A perfect book for beginners, explaining the basics of software testing.
+- "Software Testing - Base Course" S.Kulikov,2015 - The book by EPAM is based on a decade of experience in conducting training for testers, which has allowed us to summarize the typical questions, issues, and challenges faced by many novice professionals.
+- "Podróż przez świat testowania" Karolina Pawłowska, Natalia Pawlak, 2020 - The graet ability to discover the world of testing from a practical perspective, as there are plenty of exercises and real-life examples from the daily life of a software tester in this book.
+- [testerzy.pl](https://testerzy.pl) - A portal with a knowledge base and practical materials on testing.
+- [Tester - Milena Bednarczyk](https://tester.milenabednarczyk.pl) - A blog filled with a wealth of useful information for testers.
+- [TestujTalk Podcast](https://www.youtube.com/playlist?list=PL785iOrb0sYh11MYcSkDLO42IgLcDHE6o)
+- [Testowanie Oprogramowania - Rafał Podraza](https://www.youtube.com/playlist?list=PL7NAC-bkGBcG2Nv7NiejNgm43SKR7Leq9) - Free course on YouTube.
+- [Artsiom Rusau QA Course](https://www.youtube.com/playlist?list=PLKbJd47Kcbju2Vhi-FL7AI14vItVmGYk-) - A comprehensive, free course for testers on YouTube covering all necessary tools and technologies, complete with practical exercises.
 

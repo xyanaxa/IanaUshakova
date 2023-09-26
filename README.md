@@ -113,6 +113,7 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 <li>Ability to learn new tools, systems and processes quickly</li>
 <li>Thinking outside the box</li>
 <li>Desire for self-development</li></ul>
+</details>
 
 ## Projects
 - [Checklists](https://github.com/artichokeee/checklist)

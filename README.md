@@ -114,10 +114,7 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 <li>Thinking outside the box</li>
 <li>Desire for self-development</li></ul>
 
-
-
 ## Projects
-
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)

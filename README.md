@@ -7,7 +7,9 @@
 You can download my CV as a [PDF](https://drive.google.com/drive/folders/1ld9gADD8mRkOT39X3H7CSR6nvnAiwc63?usp=share_link)
 
 ## 🙋🏼‍♀️ About me
-My experience as a business assistant in an EdTech project focused on IT training has provided me with a deep understanding and knowledge of the IT industry. I have gained valuable insights into the field of software testing and the dynamic nature of IT, and I really enjoy it! I started
+My experience as a business assistant in an EdTech project focused on IT training has provided me with a deep understanding and knowledge of the IT industry. I have gained valuable insights into the field of software testing and the dynamic nature of IT, and I really enjoy it! 
+
+I believe that QA field offers exciting opportunities for innovation and growth, and I'm eager to contribute my skills and enthusiasm to make a meaningful impact. I want do big things, that work good and change people minds. When we have certain expectations about something, it's important that reality matches those expectations. Quality Assurance (QA) in development helps create conditions to ensure that a product or service actually aligns with what we expect and what's required and helps people.
 
 <i>Data passionate, continuous learning and curious soul. Based in Poland but available to work worldwide.</i>
 

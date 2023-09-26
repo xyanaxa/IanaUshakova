@@ -1,6 +1,6 @@
 # QA ENGINEER PORTFOLIO
 
-[![Header](https://github.com/xyanaxa/IanaUshakova/blob/main/Junior_QA_Engineer-2-1-transformed.png)](mailto:xiushakovax@gmail.com)
+[![Header](https://github.com/xyanaxa/doc/blob/main/Junior_QA_Engineer_banner.png)](mailto:xiushakovax@gmail.com)
 
 
 ## 📃 My CV

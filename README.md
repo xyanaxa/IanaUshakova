@@ -11,6 +11,8 @@ My experience as a business assistant in an EdTech project focused on IT trainin
 
 I believe that QA field offers exciting opportunities for innovation and growth, and I'm eager to contribute my skills and enthusiasm to make a meaningful impact. I want do big things, that work good and change people minds. When we have certain expectations about something, it's important that reality matches those expectations. Quality Assurance helps create conditions to ensure that a product or service actually aligns with what we expect and what's required and generally helps people live better.
 
+In this portfolio, I would like to share my knowledge in the field of QA and showcase my practical skills that I have acquired through courses and self-study.
+
 <i>Data passionate, continuous learning and curious soul. Based in Poland but available to work worldwide.</i>
 
 ## 💼 My experience

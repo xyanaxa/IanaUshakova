@@ -124,25 +124,18 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
   
 - [SQL Queries](https://github.com/artichokeee/SQL)
 
-- #### **API Testing**
-**[Project repository](https://github.com/xyanaxa/RESTfulBooker/blob/main/README.md)** - project for the RESTful Booker API, a hotel reservation system.
+- ### **API Testing**
+1. **RESTful-Booker**
 
+Project URL - https://restful-booker.herokuapp.com/apidoc/index.html
 
-▫️Conducted thorough testing to ensure functionality, reliability, and security of the API;
+The RESTful Booker API is a hotel reservation system that allows users to interact with different endpoints to create, retrieve, update, and delete bookings. The project will include a wide range of test scenarios, including positive and negative test cases, to cover all aspects of the RESTful Booker API.
 
-▫️Designed and implemented positive and negative test cases;
+The CRUD operation for GET, POST, PUT, PATCH, DELETE with Basic Auth.
 
-▫️Automated testing using tools such as Postman and REST Assured;
+- [Postman Collection](https://documenter.getpostman.com/view/29275610/2s9YJaXP9j)
+- [Test Cases]()
 
-▫️Conducted integration testing to verify the interoperability of the RESTful Booker API with other systems and dependent APIs;
-
-▫️Performed security testing, including authorization, authentication, input validation, and data protection measures;
-
-▫️Conducted load testing and stress testing to evaluate the API's performance and scalability;
-
-▫️Created detailed test reports that provided insights on test coverage, execution status, and identified issues/defects;
-
-▫️Developed documentation on test cases, test plans, and significant observations/recommendations;
 
 
 ## Courses

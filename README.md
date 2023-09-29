@@ -120,7 +120,7 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [API Testing](https://github.com/xyanaxa/RESTfulBooker/blob/main/README.md)
 
 ## Courses
 Udemy:

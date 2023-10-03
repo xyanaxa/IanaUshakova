@@ -118,11 +118,11 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 ## Projects
 - [Checklists](https://github.com/artichokeee/checklist)
   
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- ### [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
   
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- ### [Bug-Reports](https://github.com/artichokeee/bug-reports)
   
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- ### [SQL Queries](https://github.com/xyanaxa/SQL/tree/main)
 
 - ### **API Testing**
 1. **RESTful-Booker**

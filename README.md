@@ -116,9 +116,12 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 </details>
 
 ## 🎯 Projects
-- ### [Guru99 Bank](https://github.com/artichokeee/test-cases)
+- ### Guru99 Bank
+Project URL - https://demo.guru99.com
+
+
   
-- ### [](https://github.com/artichokeee/bug-reports)
+
 
 - ### **API Testing**
 1. **RESTful-Booker**

@@ -116,27 +116,40 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 </details>
 
 ## Projects
-- [Checklists](https://github.com/artichokeee/checklist)
+- ### [Guru99 Bank](https://github.com/artichokeee/test-cases)
   
-- ### [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-  
-- ### [Bug-Reports](https://github.com/artichokeee/bug-reports)
-  
-- ### [SQL Queries](https://github.com/xyanaxa/SQL/tree/main)
+- ### [](https://github.com/artichokeee/bug-reports)
 
 - ### **API Testing**
 1. **RESTful-Booker**
 
-Project URL - https://restful-booker.herokuapp.com/apidoc/index.html
+   Project URL - https://restful-booker.herokuapp.com/apidoc/index.html
 
-The RESTful Booker API is a hotel reservation system that allows users to interact with different endpoints to create, retrieve, update, and delete bookings. The project will include a wide range of test scenarios, including positive and negative test cases, to cover all aspects of the RESTful Booker API.
+   The RESTful Booker API is a hotel reservation system that allows users to interact with different endpoints to create, retrieve, update, and delete bookings. The project will include a wide range of test scenarios, including positive and negative test cases, to cover all aspects of the RESTful Booker API.
 
-The CRUD operation for GET, POST, PUT, PATCH, DELETE with Basic Auth.
+   The CRUD operation for GET, POST, PUT, PATCH, DELETE with Basic Auth.
+    - [Postman Collection](https://documenter.getpostman.com/view/29275610/2s9YJaXP9j)
+    - [Test Cases](https://docs.google.com/spreadsheets/d/1V6O61L_-2J_W2Sa_tiZ7yVvSKh1RjHsKTXSP0G8RaHI/edit?usp=sharing)
 
-- [Postman Collection](https://documenter.getpostman.com/view/29275610/2s9YJaXP9j)
-- [Test Cases](https://docs.google.com/spreadsheets/d/1V6O61L_-2J_W2Sa_tiZ7yVvSKh1RjHsKTXSP0G8RaHI/edit?usp=sharing)
+- ### SQL Queries
 
-
+    **There you can find [examples of SQL queries](https://github.com/xyanaxa/SQL/tree/main) that i did and practiced on.**
+   
+  During the SQL self-study, I learnt:
+ 
+    - How do we connect tables?
+    - How can we combine tables so that there are no duplicate records?
+    - What is a database?
+    - What do queries do?
+    - Retrieve information from a database
+    - Build basic reports from scratch
+    - Write complex WHERE conditions, using logical operators like AND, OR, and NOT
+    - Understand the LIKE, ILIKE, IN, and BETWEEN operators
+    - Work with multiple tables
+    - Use INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN
+    - Create simple reports using GROUP BY and aggregate functions
+    - Write subqueries and complex instructions
+    - Understand SQL set operations: UNION, INTERSECT, and EXCEPT
 
 ## Courses
 Udemy:

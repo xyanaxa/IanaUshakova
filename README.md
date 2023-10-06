@@ -115,7 +115,7 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 <li>Desire for self-development</li></ul>
 </details>
 
-## Projects
+## 🎯 Projects
 - ### [Guru99 Bank](https://github.com/artichokeee/test-cases)
   
 - ### [](https://github.com/artichokeee/bug-reports)
@@ -151,7 +151,7 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
     - Write subqueries and complex instructions
     - Understand SQL set operations: UNION, INTERSECT, and EXCEPT
 
-## Courses
+## 🎓 Courses
 Udemy:
 - [Software Tester Course](https://www.udemy.com/course/software-tester-course-become-an-effective-tester/)
 - [Manual Testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)

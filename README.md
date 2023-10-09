@@ -116,7 +116,8 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
 </details>
 
 ## 🎯 Projects
-- ### Guru99 Bank
+- ### Manual Testing
+1. Guru99 Bank
    Project URL - https://demo.guru99.com
 
    Project Guru99 Bank is a web application designed to provide its clients with internet banking functionality from both the Manager and Customer sides. The goal of conducting tests was to identify as many errors as possible and verify whether the application functions in accordance with requirements and is user-friendly.
@@ -124,15 +125,10 @@ In a small team of 3 people, we brought the project to its MVP stage, at which p
     - Conducted tests based on the Guru99 [Bank Project specifications](https://docs.google.com/document/d/1CZocvqgE9ppseO72vrQiylK1xnEBSrnKcb2-tlXu4nM/edit?usp=sharing) and directly on the web application itself.
 
    What was accomplished:
-    - Test cases in the TestRail tool.
-    - Bug Reports in JIRA.
-    - Scenarios written in BDD (Behavior-Driven Development).
-    - Project risks and product risks.
-    - Utilization of developer tools in the Chrome Devtools web browser.
+    - [Test cases in the TestRail tool.](https://drive.google.com/drive/folders/1ssPz0YAFuoPkJrzydVsPYgNPMi7nNztE?usp=share_link)
+    - [Bug Reports in JIRA.](https://drive.google.com/drive/folders/1ssPz0YAFuoPkJrzydVsPYgNPMi7nNztE?usp=share_link)
   
-- [Postman Collection](https://documenter.getpostman.com/view/29275610/2s9YJaXP9j)
-- [Test Cases](https://docs.google.com/spreadsheets/d/1V6O61L_-2J_W2Sa_tiZ7yVvSKh1RjHsKTXSP0G8RaHI/edit?usp=sharing)
-
+  
 - ### **API Testing**
 1. **RESTful-Booker**
 
